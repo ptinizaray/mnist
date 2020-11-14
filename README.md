@@ -1,5 +1,6 @@
 # Reconocimiento de dígitos
-Está aplicación fue desarrollada para reconocer dígitos utilizando una cámara. El modelo computacional corresponde a una red neuronal convolucional entrenada con el conjunto de datos MNITS.
+Aplicación desarrollada para reconocer dígitos utilizando una cámara. El modelo utilizado es una red neuronal convolucional entrenada con el conjunto de datos MNITS.
+
 ## Requerimientos
 - Python 3.5 a 3.8
 - Tensorflow
