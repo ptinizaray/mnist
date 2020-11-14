@@ -1,0 +1,2 @@
+# mnist
+Reconocimiento de dígitos
